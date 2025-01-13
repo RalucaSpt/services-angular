@@ -1,3 +1,42 @@
+# Project Description: Understanding Services & Dependency Injection in Angular
+
+This project focuses on mastering Angular's services and dependency injection (DI) system, which are key to building scalable and maintainable applications. It explores how to centralize logic, reuse functionality, and manage dependencies effectively within an Angular application.
+
+### Key Features:
+
+- **Creating and Managing Services**:
+  - Learn the importance of centralized services for application-wide logic.
+  - Understand best practices for creating and providing services, avoiding common pitfalls.
+
+- **Dependency Injection Mechanism**:
+  - Explore Angular's powerful DI system to inject services efficiently across components.
+  - Discover alternative DI syntaxes and understand how to leverage Angular's multiple injectors for different use cases.
+
+- **Reusing Logic with Services**:
+  - Implement services to outsource reusable logic, reducing code duplication and improving maintainability.
+  - Understand how to inject one service into another for modular and layered architecture.
+
+- **Advanced Injection Techniques**:
+  - Learn to provide services using the element injector and understand its behavior.
+  - Work with custom DI tokens and providers for more flexible and dynamic dependency management.
+
+- **Injecting Non-Class Values**:
+  - Discover how to prepare and inject non-class values and other types of dependencies (not just services) into your application.
+
+- **Debugging and Optimization**:
+  - Use Angular DevTools to analyze and optimize dependency injection within your application.
+
+- **Angular Modules and DI**:
+  - Understand the role of Angular modules (`NgModule`) in dependency injection and how to organize services at the module level.
+
+By the end of this project, the application is designed to utilize services and dependency injection effectively, ensuring scalability, modularity, and reusability in its architecture.
+
+## Deployment
+
+The project is deployed and accessible online. You can view it at the following link:
+
+**[Deployed Site](https://services-angular-theta.vercel.app)**
+
 # ServicesDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
